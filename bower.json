@@ -1,6 +1,7 @@
 {
-  "name":"firstsite",
+  "name": "firstsite",
   "dependencies": {
-    "jquery": "1.11.2"
+    "jquery": "1.11.2",
+    "normalize-css": "normalize.css#^6.0.0"
   }
 }
