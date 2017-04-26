@@ -1,0 +1,6 @@
+{
+  "name":"firstsite",
+  "dependencies": {
+    "jquery": "1.11.2"
+  }
+}
